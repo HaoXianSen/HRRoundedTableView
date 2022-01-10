@@ -1,0 +1,6 @@
+framework module Pods_HRRoundedTableView_Example {
+  umbrella header "Pods-HRRoundedTableView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

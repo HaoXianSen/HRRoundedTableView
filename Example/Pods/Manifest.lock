@@ -1,0 +1,16 @@
+PODS:
+  - HRRoundedTableView (0.1.0)
+
+DEPENDENCIES:
+  - HRRoundedTableView (from `../`)
+
+EXTERNAL SOURCES:
+  HRRoundedTableView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HRRoundedTableView: 7ab0455de547b5087d653b4db9889998097b6d7a
+
+PODFILE CHECKSUM: 667bb6c2d4b46d6144796dc2400ae2a0e3e1ffba
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'HRRoundedTableView_Example' do
+  pod 'HRRoundedTableView', :path => '../'
+
+  target 'HRRoundedTableView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

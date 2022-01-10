@@ -1,0 +1,22 @@
+{
+  "name": "HRRoundedTableView",
+  "version": "0.1.0",
+  "summary": "A short description of HRRoundedTableView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/郝玉鸿/HRRoundedTableView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "郝玉鸿": "haoyh02@rd.netease.com"
+  },
+  "source": {
+    "git": "https://github.com/郝玉鸿/HRRoundedTableView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HRRoundedTableView/Classes/**/*"
+}

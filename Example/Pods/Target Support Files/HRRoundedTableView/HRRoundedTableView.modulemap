@@ -1,0 +1,6 @@
+framework module HRRoundedTableView {
+  umbrella header "HRRoundedTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_HRRoundedTableView_Tests {
+  umbrella header "Pods-HRRoundedTableView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
